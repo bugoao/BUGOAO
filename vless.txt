@@ -38,3 +38,5 @@ vless://df41ce7f-ea0b-4213-9508-c1ea3882ab44@104.21.228.242:80?encryption=none&s
 vless://df41ce7f-ea0b-4213-9508-c1ea3882ab44@190.93.246.167:80?encryption=none&security=none&type=ws&host=pta.91pan.one&path=%2fwwcc#%e4%b8%80%e5%85%b1600T
 vless://df41ce7f-ea0b-4213-9508-c1ea3882ab44@104.25.246.202:80?encryption=none&security=none&type=ws&host=pta.91pan.one&path=%2fwwcc#%e4%b8%80%e5%85%b1600T
 vless://df41ce7f-ea0b-4213-9508-c1ea3882ab44@162.159.4.159:80?encryption=none&security=none&type=ws&host=pta.91pan.one&path=%2fwwcc#%e4%b8%80%e5%85%b1600T
+vless://c43c6322-7525-4ad2-aab7-43d921d37027@wtfisthisfree.hypixel.run:443?encryption=none&security=tls&sni=wtfisthisfree.hypixel.run&type=ws&host=wtfisthisfree.hypixel.run&path=%2Fjustsucks#cf-%E6%97%A5%E6%9C%AC-Free
+vless://c43c6322-7525-4ad2-aab7-43d921d37027@114.80.32.191:15598?encryption=none&security=tls&sni=wtfisthisfree.hypixel.run&type=ws&host=wtfisthisfree.hypixel.run&path=%2Fjustsucks#%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1-%E6%97%A5%E6%9C%AC-Free
