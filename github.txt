@@ -9,34 +9,3 @@ https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NeteaseMu
 https://raw.githubusercontent.com/nameking77/Qx/main/music/wyy.txt, tag=网易云音乐解锁节点, update-interval=172800, opt-parser=true, enabled=true
 https://gitlab.com/ioshkj/quantumultx/-/raw/main/wyy.list, tag=解锁网易云-iOS黑科技, update-interval=172800, opt-parser=true, enabled=true
 
-
-
-pool = govcn.cloudns.ch:3339
-
-rewards = 111111Az1UN8rF4C1t5MgWNMqzS51DFX
-
-supervene =2
-
-
-
-1PwG1AZe4NrSCJVMnGgfPNCfxcQgqE9P8X
-
-1pDcLDa5XhQZ9jEuG6HogaWnDdmYH5YeH
-
-bc1qprhpxeachvfn6yxym20ltn6e3v23mcmsajj6rs
-
-bc1qlw2up0uq4rjlrf6u5khc5dp0v7xcg2yjwafjkm
-
-111111Az1UN8rF4C1t5MgWNMqzS51DFX
-
-188888888YqnYT3R8STyuXQs382gjETe3J
-
-bc1qqqqqqqqqx6rmhrd4sv8y3lj7ee7uj3pfcn4tl7
-
-19wX5fT6EhEQg6MAHB9n24jnx4QdDWrvEo
-
-bc1qvggf87ml64pzf8l7hht0merzr2x6p9l5eqs9nq
-
-1FQdbbKGh5jrwqFaThsJYhPku1sPV7DgSz
-
-bc1qncy7py55gas2edaas6yvduq2fu5uhzwqjmejwq
