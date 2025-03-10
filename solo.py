@@ -9,7 +9,7 @@ import struct
 
 address = 'bc1qwqkywltefk5g6vh59dzeq9etfp0lq86sl900xx'
 workername = "bee"
-server_address = ('pool.nerdminers.de', 3333)
+server_address = ('pool.nerdminer.de', 3333)
 response = b''
 target = ''
 job_id = ''
